@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/farhan bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan bajwa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farhan bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan bajwa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16555318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16555318" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/farhan asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan asghar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farhan-bajwa-8883b6215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan bajwa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16555318/farhan-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16555318" height="30" width="40" /></a>
+<a href="https://leetcode.com/farhanbajwa46/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan asghar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
