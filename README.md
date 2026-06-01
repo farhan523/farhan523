@@ -106,6 +106,38 @@ const farhan = {
 
 ---
 
+## 🤝 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📘 <a href="https://github.com/harvard-edge/cs249r_book">harvard-edge/cs249r_book</a></h3>
+      <p><b>Machine Learning Systems</b> — Harvard's open-source textbook for the CS249r course on TinyML and machine learning systems.</p>
+      <ul>
+        <li>Ranked as a <b>top contributor</b> with multiple merged PRs</li>
+        <li>Received personal acknowledgment from the maintainer</li>
+        <li>Contributions span content improvements and technical edits</li>
+      </ul>
+      <a href="https://github.com/harvard-edge/cs249r_book">
+        <img src="https://img.shields.io/github/stars/harvard-edge/cs249r_book?style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/likec4/likec4">likec4/likec4</a></h3>
+      <p><b>Architecture as Code</b> — An open-source tool for building, visualizing, and managing software architecture diagrams using a dedicated DSL.</p>
+      <ul>
+        <li>Contributing to the tooling and ecosystem</li>
+        <li>Helping improve developer experience and documentation</li>
+      </ul>
+      <a href="https://github.com/likec4/likec4">
+        <img src="https://img.shields.io/github/stars/likec4/likec4?style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
